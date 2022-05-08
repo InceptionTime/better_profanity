@@ -32,7 +32,7 @@ class Profanity:
         self.CENSOR_WORDSET = []
         self.CHARS_MAPPING = {
             "a": ("a", "@", "*", "4"),
-            "i": ("i", "*", "l", "1"),
+            "i": ("i", "*", "l", "1", "!"),
             "o": ("o", "*", "0", "@"),
             "u": ("u", "*", "v"),
             "v": ("v", "*", "u"),
